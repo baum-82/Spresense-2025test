@@ -1,0 +1,68 @@
+dft_maincore_main.c.home.yonekura.myproject.dft_maincore.o: \
+ dft_maincore_main.c \
+ /home/yonekura/spresense/nuttx/include/nuttx/config.h \
+ /home/yonekura/spresense/nuttx/include/stdio.h \
+ /home/yonekura/spresense/nuttx/include/sys/types.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/compiler.h \
+ /home/yonekura/spresense/nuttx/include/stdint.h \
+ /home/yonekura/spresense/nuttx/include/arch/types.h \
+ /home/yonekura/spresense/nuttx/include/arch/inttypes.h \
+ /home/yonekura/spresense/nuttx/include/limits.h \
+ /home/yonekura/spresense/nuttx/include/arch/limits.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdarg.h \
+ /home/yonekura/spresense/nuttx/include/time.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/fs/fs.h \
+ /home/yonekura/spresense/nuttx/include/stdbool.h \
+ /home/yonekura/spresense/nuttx/include/dirent.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/mutex.h \
+ /home/yonekura/spresense/nuttx/include/assert.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/semaphore.h \
+ /home/yonekura/spresense/nuttx/include/errno.h \
+ /home/yonekura/spresense/nuttx/include/semaphore.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/queue.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/clock.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/mm/map.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/mm/gran.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/lib/lib.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/kmalloc.h \
+ /home/yonekura/spresense/nuttx/include/stdlib.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/mm/mm.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/addrenv.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/wqueue.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/wdog.h \
+ /home/yonekura/spresense/nuttx/include/arch/arch.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/pgalloc.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/userspace.h \
+ /home/yonekura/spresense/nuttx/include/signal.h \
+ /home/yonekura/spresense/nuttx/include/pthread.h \
+ /home/yonekura/spresense/nuttx/include/unistd.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/arch.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/cache.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/sched.h \
+ /home/yonekura/spresense/nuttx/include/sched.h \
+ /home/yonekura/spresense/nuttx/include/strings.h \
+ /home/yonekura/spresense/nuttx/include/string.h \
+ /home/yonekura/spresense/nuttx/include/stddef.h \
+ /home/yonekura/spresense/nuttx/include/alloca.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/irq.h \
+ /home/yonekura/spresense/nuttx/include/arch/irq.h \
+ /home/yonekura/spresense/nuttx/include/arch/chip/irq.h \
+ /home/yonekura/spresense/nuttx/include/arch/armv7-m/irq.h \
+ /home/yonekura/spresense/nuttx/include/arch/armv7-m/nvicpri.h \
+ /home/yonekura/spresense/nuttx/include/arch/chip/chip.h \
+ /home/yonekura/spresense/nuttx/include/nuttx/net/net.h \
+ /home/yonekura/spresense/nuttx/include/sys/socket.h \
+ /home/yonekura/spresense/nuttx/include/sys/uio.h \
+ /home/yonekura/spresense/nuttx/include/malloc.h \
+ /usr/include/newlib/math.h /usr/include/newlib/sys/reent.h \
+ /usr/include/newlib/_ansi.h /usr/include/newlib/newlib.h \
+ /usr/include/newlib/_newlib_version.h /usr/include/newlib/sys/config.h \
+ /usr/include/newlib/machine/ieeefp.h /usr/include/newlib/sys/features.h \
+ /usr/include/newlib/sys/cdefs.h \
+ /usr/include/newlib/machine/_default_types.h \
+ /usr/include/newlib/sys/_types.h /usr/include/newlib/machine/_types.h \
+ /usr/include/newlib/sys/lock.h /usr/include/newlib/_ansi.h \
+ /home/yonekura/spresense/nuttx/include/sys/time.h \
+ /home/yonekura/spresense/nuttx/include/sys/select.h
+# No files specified for dependency generation
+# No files specified for dependency generation
